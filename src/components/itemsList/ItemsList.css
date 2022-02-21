@@ -1,0 +1,10 @@
+.items-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+    padding: 15px 30px;
+    max-width: 600px;
+    border: 1px solid greenyellow;
+}
